@@ -5,5 +5,7 @@ public class OperasiString {
                 String kota = "Banjarbaru";
 
                 System.out.println(kota);
+
     }
 }
+

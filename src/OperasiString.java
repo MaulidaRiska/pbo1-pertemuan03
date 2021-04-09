@@ -2,8 +2,8 @@ package string;
 
 public class OperasiString {
     public static void main(String[] args) {
-        string kota = "Banjarbaru";
+        String kota = "Banjarbaru";
 
-        system.out.println(kota);
+        System.out.println(kota);
     }
 }

@@ -12,6 +12,7 @@ public class IfElse2 {
             System.out.println("Uang Anda Cukup, Angsul: "+angsul);
         }else{
             System.out.println("Uang Anda Pas Yey!!!");
+
         }
     }
 }

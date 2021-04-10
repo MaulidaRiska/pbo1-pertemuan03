@@ -2,8 +2,8 @@ package Percabangan;
 
 public class IfElse2 {
     public static void main(String[] args) {
-        double TotalBelanja = 542000;
-        double YangDiBayar = 531000;
+        double TotalBelanja = 976200;
+        double YangDiBayar  = 1000000;
 
         if(YangDiBayar<TotalBelanja){
             System.out.println("Uang Anda Kurang, Kurangi Belanjaan Anda");

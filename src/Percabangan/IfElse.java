@@ -10,6 +10,5 @@ public class IfElse {
         }else {
             System.out.println("Uang Anda Cukup Kakak Selamat Berbelanja Lagi");
         }
-
     }
 }
